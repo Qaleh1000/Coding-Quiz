@@ -32,4 +32,16 @@ var questions = [
         correctAnswer: "JSON.parse"
     },
 ];
-// 
+
+// Grabbing DOM elements
+
+let startButton = document.getElementById("start");
+let h2QuestionElement = document.getElementById("question-title");
+let choicesElement = document.getElementById("choices");
+let timerElement = document.getElementById("time");
+let feedback = document.getElementById("feedback");
+let endScreen = document.getElementById("end-screen");
+let initialsInput = document.getElementById("initials");
+let submitButton = document.getElementById("submit");
+let finalScore = document.getElementById("final-score");
+
