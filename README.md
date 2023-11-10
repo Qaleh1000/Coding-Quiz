@@ -10,8 +10,8 @@ Furthermore, the addition of clearing of high scores, facilitated a clean slate 
 ## Usage Screenshot of final product:
 
 Screenshot of final product:
-![Demonstration 1 ](./Assets/Screenshot%20One%20Small.png)
-![Demonstration 2 ](./Assets/Screenshot%20Two%20.png)
+![Demonstration 1 ](./Assets/Screenshot%20one.png)
+![Demonstration 2 ](./Assets/Screenshot%20two.png)
 
 ## Link to deployed application:
 
